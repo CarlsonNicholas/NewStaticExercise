@@ -1,0 +1,15 @@
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\bin\Debug\net6.0\NewStaticExercise.exe
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\bin\Debug\net6.0\NewStaticExercise.deps.json
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\bin\Debug\net6.0\NewStaticExercise.runtimeconfig.json
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\bin\Debug\net6.0\NewStaticExercise.dll
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\bin\Debug\net6.0\NewStaticExercise.pdb
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\obj\Debug\net6.0\NewStaticExercise.csproj.AssemblyReference.cache
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\obj\Debug\net6.0\NewStaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\obj\Debug\net6.0\NewStaticExercise.AssemblyInfoInputs.cache
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\obj\Debug\net6.0\NewStaticExercise.AssemblyInfo.cs
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\obj\Debug\net6.0\NewStaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\obj\Debug\net6.0\NewStaticExercise.dll
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\obj\Debug\net6.0\refint\NewStaticExercise.dll
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\obj\Debug\net6.0\NewStaticExercise.pdb
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\obj\Debug\net6.0\NewStaticExercise.genruntimeconfig.cache
+C:\Users\Extre\OneDrive\Desktop\repos\NewStaticExercise\NewStaticExercise\obj\Debug\net6.0\ref\NewStaticExercise.dll
